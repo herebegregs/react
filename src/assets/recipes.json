@@ -1,0 +1,253 @@
+{
+    "recipeList": [
+        {
+        "name": "starters",
+        "recipes": [
+                {
+                    "name": "Bruschetta",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "4 slices of baguette",
+                    "2 ripe tomatoes",
+                    "1 clove of garlic",
+                    "Fresh basil leaves",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste"
+                    ],
+                    "instructions": [
+                    "Toast the baguette slices until crispy.",
+                    "Rub each slice with the garlic clove.",
+                    "Dice the tomatoes and place them in a bowl.",
+                    "Add olive oil, salt, and pepper to the tomatoes and mix well.",
+                    "Spoon the tomato mixture onto each baguette slice.",
+                    "Garnish with fresh basil leaves and serve."
+                    ]
+                },
+                {
+                    "name": "Stuffed Mushrooms",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "12 large mushrooms",
+                    "100g cream cheese",
+                    "1 clove of garlic, minced",
+                    "1/4 cup grated Parmesan",
+                    "1 tbsp chopped parsley",
+                    "Salt and pepper to taste"
+                    ],
+                    "instructions": [
+                    "Preheat the oven to 180°C (350°F).",
+                    "Remove stems from mushrooms and finely chop.",
+                    "Mix the cream cheese, garlic, chopped stems, Parmesan, parsley, salt, and pepper.",
+                    "Fill each mushroom cap with the mixture.",
+                    "Bake for 20 minutes or until mushrooms are tender."
+                    ]
+                },
+                {
+                    "name": "Caprese Salad Skewers",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "Cherry tomatoes",
+                    "Mini mozzarella balls",
+                    "Fresh basil leaves",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste",
+                    "Balsamic glaze for drizzling"
+                    ],
+                    "instructions": [
+                    "Thread a cherry tomato, a basil leaf, and a mozzarella ball onto each skewer.",
+                    "Drizzle with olive oil and balsamic glaze.",
+                    "Season with salt and pepper and serve immediately."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mains",
+            "recipes": [
+                {
+                    "name": "Spaghetti Carbonara",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "200g spaghetti",
+                    "100g pancetta",
+                    "2 large eggs",
+                    "50g Parmesan cheese",
+                    "Salt and black pepper",
+                    "2 tbsp olive oil"
+                    ],
+                    "instructions": [
+                    "Cook the spaghetti in salted water according to the package instructions.",
+                    "While the pasta is cooking, heat olive oil in a pan and cook the pancetta until crispy.",
+                    "In a bowl, beat the eggs and mix in the grated Parmesan cheese.",
+                    "Once the pasta is ready, drain and immediately add it to the pan with pancetta.",
+                    "Remove from heat, quickly pour in the egg mixture, and toss well.",
+                    "Season with black pepper and serve with extra Parmesan."
+                    ]
+                },
+                {
+                    "name": "Chicken Stir-Fry",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "200g chicken breast, sliced",
+                    "1 bell pepper, sliced",
+                    "1 carrot, julienned",
+                    "1 cup broccoli florets",
+                    "2 tbsp soy sauce",
+                    "1 tbsp olive oil",
+                    "Salt and pepper to taste"
+                    ],
+                    "instructions": [
+                    "Heat the olive oil in a pan over medium-high heat.",
+                    "Add the chicken and cook until browned and fully cooked.",
+                    "Add the vegetables and stir-fry for 3-4 minutes.",
+                    "Pour in the soy sauce and season with salt and pepper.",
+                    "Cook for another 2 minutes and serve hot."
+                    ]
+                },
+                {
+                    "name": "Beef Tacos",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "200g ground beef",
+                    "1 tbsp taco seasoning",
+                    "4 taco shells",
+                    "1/2 cup shredded lettuce",
+                    "1/4 cup grated cheese",
+                    "Salsa and sour cream for topping"
+                    ],
+                    "instructions": [
+                    "Cook the ground beef in a skillet over medium heat until browned.",
+                    "Add the taco seasoning and stir well.",
+                    "Warm the taco shells in the oven or microwave.",
+                    "Fill each shell with beef, lettuce, cheese, and toppings of choice."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "desserts",
+            "recipes": [
+                {
+                    "name": "Chocolate Lava Cake",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "100g dark chocolate",
+                    "100g butter",
+                    "2 large eggs",
+                    "50g sugar",
+                    "50g flour",
+                    "Butter and cocoa powder for ramekins"
+                    ],
+                    "instructions": [
+                    "Preheat the oven to 220°C (425°F). Butter and dust the ramekins with cocoa powder.",
+                    "Melt the chocolate and butter together in a bowl over simmering water.",
+                    "In another bowl, beat the eggs and sugar until light and fluffy.",
+                    "Gently fold the melted chocolate mixture into the eggs, then add flour and mix until smooth.",
+                    "Pour the batter into the ramekins and bake for 8-10 minutes until the edges are set and the center is still soft.",
+                    "Serve immediately with a scoop of vanilla ice cream."
+                    ]
+                },
+                {
+                    "name": "Tiramisu",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "250g mascarpone cheese",
+                    "200ml heavy cream",
+                    "1 cup brewed espresso",
+                    "1/2 cup sugar",
+                    "1 pack ladyfinger biscuits",
+                    "Cocoa powder for dusting"
+                    ],
+                    "instructions": [
+                    "Whip the heavy cream and sugar together until stiff peaks form.",
+                    "Gently fold in the mascarpone cheese.",
+                    "Dip each ladyfinger biscuit in the espresso, then layer in a dish.",
+                    "Spread a layer of the cream mixture on top, then add another layer of soaked biscuits.",
+                    "Repeat until all ingredients are used, ending with a layer of cream.",
+                    "Dust with cocoa powder and refrigerate for at least 4 hours."
+                    ]
+                },
+                {
+                    "name": "Apple Crumble",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "4 apples, peeled and sliced",
+                    "1/2 cup flour",
+                    "1/2 cup oats",
+                    "1/4 cup brown sugar",
+                    "50g butter",
+                    "1 tsp cinnamon"
+                    ],
+                    "instructions": [
+                    "Preheat the oven to 180°C (350°F).",
+                    "Arrange the apple slices in a baking dish and sprinkle with cinnamon.",
+                    "In a bowl, mix the flour, oats, and brown sugar. Cut in the butter until the mixture resembles crumbs.",
+                    "Sprinkle the crumble mixture over the apples.",
+                    "Bake for 30-35 minutes until the top is golden brown and the apples are soft."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "snacks",
+            "recipes": [
+                {
+                    "name": "Guacamole",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                        "2 ripe avocados",
+                        "1 small onion, finely chopped",
+                        "1 clove of garlic, minced",
+                        "1 tomato, diced",
+                        "Juice of 1 lime",
+                        "Salt and pepper to taste",
+                        "Chopped cilantro (optional)"
+                    ],
+                    "instructions": [
+                        "Cut the avocados in half, remove the pit, and scoop the flesh into a bowl.",
+                        "Mash the avocado with a fork until smooth.",
+                        "Add the onion, garlic, tomato, and lime juice to the bowl.",
+                        "Season with salt and pepper and mix well.",
+                        "Garnish with cilantro if desired and serve with tortilla chips."
+                    ]
+                },
+                {
+                    "name": "Hummus",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "1 can chickpeas, drained",
+                    "2 tbsp tahini",
+                    "1 clove garlic",
+                    "Juice of 1 lemon",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste",
+                    "Paprika for garnish"
+                    ],
+                    "instructions": [
+                    "In a blender, combine chickpeas, tahini, garlic, lemon juice, and olive oil.",
+                    "Blend until smooth, adding a little water if needed.",
+                    "Season with salt and pepper to taste.",
+                    "Serve in a bowl, drizzle with olive oil, and sprinkle with paprika."
+                    ]
+                },
+                {
+                    "name": "Energy Balls",
+                    "image": "https://picsum.photos/200/300",
+                    "ingredients": [
+                    "1 cup rolled oats",
+                    "1/2 cup peanut butter",
+                    "1/4 cup honey",
+                    "1/4 cup chocolate chips",
+                    "1/4 cup shredded coconut"
+                    ],
+                    "instructions": [
+                    "In a bowl, mix all ingredients until well combined.",
+                    "Roll the mixture into small balls.",
+                    "Refrigerate for 30 minutes to firm up before serving."
+                    ]
+                }
+            ]
+        }
+    ]   
+  }
+  
